@@ -6,11 +6,6 @@
 
 I’m a front-end developer in love with the Web and CSS 
 
-Main tools: React, TS, CSS. My professional interests include accessibility, semantics, modern CSS and user experience.
-
-I like the idea of open source and I'm open for cooperation.
-
-
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
