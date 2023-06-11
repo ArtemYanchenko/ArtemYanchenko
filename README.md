@@ -1,14 +1,20 @@
-<p href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Artem+Yanchenko" alt="Typing SVG" /></p>
+<a href="https://git.io/typing-svg" align="left"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Artem+Yanchenko" alt="Typing SVG" /></a>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
-  I'm a frontend developer specializing in <strong>React and Redux</strong>.
+<br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  I'm a frontend developer specializing in <strong>React and Redux</strong>.<br>
+  As a software engineer, I enjoy using my obsessive attention to detail,<br> my unequivocal love for making things that change the world. <br>
+  That's why I like to make things that make a difference.
+  <br/>
+  <hr/>
+  
 <h3>Contact me:</h3>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemyanchenko)
 
-
+<br>
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
