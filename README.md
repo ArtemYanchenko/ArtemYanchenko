@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=28&duration=4000&pause=500&color=000000&hCenter=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Artem+Yanchenko)](https://git.io/typing-svg)
+<p href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&duration=4000&pause=500&color=000000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Artem+Yanchenko" alt="Typing SVG" /></p>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador">
   I'm a frontend developer specializing in <strong>React and Redux</strong>.
@@ -6,18 +6,6 @@
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artemyanchenko)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
