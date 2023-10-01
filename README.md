@@ -7,7 +7,7 @@
   <br/>
   <hr/>
   
-<h3>Contact me:</h3>
+<h3>Contact me</h3>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemyanchenko.94@mail.ru)
