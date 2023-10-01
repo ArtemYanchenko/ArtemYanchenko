@@ -7,7 +7,7 @@
  Если у вас есть вопросы, предложения или просто желание пообщаться, не стесняйтесь связаться со мной.
   <hr/>
   
-<h3>Свзязаться со мной</h3>
+<h3>Связаться со мной</h3>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857306416)
