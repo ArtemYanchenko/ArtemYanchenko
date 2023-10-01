@@ -1,20 +1,20 @@
-<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hi+there+%F0%9F%91%8B%2C+i'm+Artem+Yanchenko" alt="Typing SVG" /></a>
+<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Привет+всем+%F0%9F%91%8B%2C+я+Артём+!!!" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
- <p align='left'> I'm a frontend developer specializing in <strong>React and Redux</strong>.<br>
-  As a software engineer, I enjoy using my obsessive attention to detail,<br> my unequivocal love for making things that change the world. <br>
-  That's why I like to make things that make a difference. </p>
-  <br/>
+ <p align='left'> 
+ Я фронтенд-разработчик с опытом работы в области веб-разработки и специализацией в React и Redux.<br/>
+ Моя цель - создавать удивительные и инновационные пользовательские интерфейсы, которые улучшают жизнь людей.<br/>
+ Если у вас есть вопросы, предложения или просто желание пообщаться, не стесняйтесь связаться со мной.
   <hr/>
   
-<h3>Contact me</h3>
+<h3>Свзязаться со мной</h3>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemyanchenko.94@mail.ru)
 
 <br>
 
-### Tech Stack
+### Технологии
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -33,7 +33,7 @@
 
 <hr>
 
-### Tools
+### Инструменты
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
