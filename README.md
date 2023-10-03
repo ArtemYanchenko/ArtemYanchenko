@@ -1,13 +1,15 @@
-<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Всем+ПРИВЕТ+%F0%9F%91%8B%2C+я+Артём+!" alt="Typing SVG" /></a>
+<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+i+am+Artem+!" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
  <p align='left'> 
- Я фронтенд-разработчик с опытом работы в области веб-разработки и специализацией в <b>React и Redux</b>.<br/>
- Моя цель - создавать удивительные и инновационные пользовательские интерфейсы, которые улучшают жизнь людей.<br/>
- Если у вас есть вопросы, предложения или просто желание пообщаться, не стесняйтесь связаться со мной.
+  
+<b>Frontend-developer</b>.
+My strong point is creating cool user interfaces with a pleasant user experience. <br/>
+Do you have any questions and suggestions ?
+Contact me.
   <hr/>
   
-<h3>Связаться со мной</h3>
+<h3>Contact me</h3>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857306416)
@@ -16,7 +18,7 @@
 
 <br>
 
-### Технологии
+### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -37,7 +39,7 @@
 
 <hr>
 
-### Инструменты
+### Tools
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
