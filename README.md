@@ -13,6 +13,7 @@ Do you have any questions and suggestions ?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemyanchenko.94@mail.ru)
 
 <hr>
+<br/>
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
