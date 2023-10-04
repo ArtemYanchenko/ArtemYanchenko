@@ -1,6 +1,6 @@
 <a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+i'm+Artem+!" alt="Typing SVG" /></a>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="300px" max-width="350px" width="400px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="600px" max-width="600px" width="400px" align="right" alt="Computador">
  <p align='left'> 
   
 <b>Frontend-developer</b>.
