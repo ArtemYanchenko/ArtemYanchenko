@@ -6,10 +6,7 @@
 <b>Frontend-developer</b>.
 My strong point is creating cool user interfaces with a pleasant user experience. <br/>
 Do you have any questions and suggestions ?
-Contact me.
-  <hr/>
-  
-<h3>Contact me</h3>
+<b>Contact me.</b>
   
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tematemofeev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79857306416)
