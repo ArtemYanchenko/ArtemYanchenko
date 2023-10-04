@@ -1,7 +1,8 @@
-<a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+i'm+Artem+!" alt="Typing SVG" /></a>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" min-width="350px" max-width="500px" width="350px" align="right" alt="Computador">
  <p align='left'> 
+  
+  <a target="_blank" href="https://t.me/tematemofeev"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=2F81F7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+i'm+Artem+!" alt="Typing SVG" /></a>
   
 <b>Frontend-developer</b>.
 My strong point is creating cool user interfaces with a pleasant user experience. <br/>
@@ -13,8 +14,6 @@ Do you have any questions and suggestions ?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemyanchenko.94@mail.ru)
 
 <hr>
-<br/>
-<br/>
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) 
